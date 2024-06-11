@@ -37,6 +37,10 @@ const todoSchema = new mongoose.Schema({
 const Todo = mongoose.model('Todo', todoSchema);
 
 // Routes
+app.get('/', (req, res) => {
+  res.json('Welcome to the Todo API');
+})
+
 app.get('/todos', async (req, res) => {
   try {
     const todos = await Todo.find().sort({ order: 1 });
