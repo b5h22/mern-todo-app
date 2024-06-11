@@ -1,6 +1,5 @@
 # MERN To-Do App
-- This is a simple To-Do application built using the MERN stack (MongoDB, Express, React, Node.js).
-- The initial project structure and core functionality of this To-Do app were set up by following an online tutorial. Additional features such as MongoDB integration, axios for HTTP requests, and deployment via Vercel were added to extend the functionality.
+This is a simple To-Do application built using the MERN stack (MongoDB, Express, React, Node.js). The initial project structure and core functionality of this To-Do app were set up by following an online tutorial. Additional features such as MongoDB integration, axios for HTTP requests, and deployment via Vercel were added to extend the functionality.
 
 ## Table of Contents
 - [Features](#features)
