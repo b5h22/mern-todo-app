@@ -21,6 +21,8 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express,
 - Use the "x" button to delete a task.
 - Drag and drop tasks to reorder them.
 - Click "Delete All" to remove all tasks.
+  
+![Screenshot of todo-app](https://github.com/b5h22/mern-todo-app/assets/137153211/e6aedf97-5306-492a-ae6a-1207f4e476ef)
 
 ## Project Structure
 ```plaintext
