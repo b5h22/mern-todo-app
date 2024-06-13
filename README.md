@@ -26,7 +26,8 @@ This is a simple To-Do application built using the MERN stack (MongoDB, Express,
 ```plaintext
 mern-todo-app/
 ├── backend/
-│   ├── server.js
+│   ├── api/
+│   │   ├── index.js
 │   └── .env
 ├── frontend/
 │   ├── public/
